@@ -1,0 +1,15 @@
+export const sizing = {
+  scale0: "1px",
+  scale100: "2px",
+  scale200: "4px",
+  scale250: "6px",
+  scale300: "8px",
+  scale400: "10px",
+  scale500: "12px",
+  scale550: "14px",
+  scale600: "16px",
+  scale650: "18px",
+  scale700: "20px",
+  scale750: "22px",
+  scale800: "24px",
+};
